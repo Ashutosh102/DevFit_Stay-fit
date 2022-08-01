@@ -1,2 +1,5 @@
-# DevFit_Stay-fit
-A fitness web app or an excersize search web app using react and API
+# React Fitness Application
+
+![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
